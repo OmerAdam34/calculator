@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+input {
+  width: 300px;
+  height: 20px;
+  margin-bottom: 10px;
+}
+
+button {
+  width: 150px;
+  height: 100px;
+  font-weight: 800;
+}
+
+.clip {
+  padding-bottom: 16px;
+  width: 150px;
+  height: 100px;
+}
